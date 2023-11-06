@@ -1,7 +1,3 @@
-### Olá 👋
-
-#### Em busca de aprender e desfrutar do universo tech
-
 <img width="1834" alt="Make your README" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/11a0a5b6-17de-4674-8372-5140782cebd5">
 
 #### ⭐Habilidades: 
