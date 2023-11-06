@@ -2,7 +2,7 @@
 
 #### Em busca de aprender e desfrutar do universo tech
 
-![banner](<img width="1834" alt="Make your README" src="https://github.com/joao-dev7/-joao-dev7/assets/117098725/b8c458c0-636b-4f0d-9630-492efca7811e">)
+<img width="1834" alt="Make your README" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/11a0a5b6-17de-4674-8372-5140782cebd5">
 
 #### ⭐Habilidades: 
 [![habilidades](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
