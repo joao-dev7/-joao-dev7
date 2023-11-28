@@ -4,7 +4,7 @@
 [![habilidades](https://skillicons.dev/icons?i=js,html,css,git,github&perline=3)](https://skillicons.dev)
 
 #### 📚 Estudando:
-[![estudos](https://skillicons.dev/icons?i=css&perline=3)](https://skillicons.dev)
+[![estudos](https://skillicons.dev/icons?i=js&perline=3)](https://skillicons.dev)
 
 #### 🔗 Contatos:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrossdev/)
