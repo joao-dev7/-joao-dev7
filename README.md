@@ -1,12 +1,13 @@
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="320" />
+
 ### Olá , Eu sou o João! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Eu sou um desenvolvedor full-stack
 
 - 🌱 Atualmente estou aprendendo js
 - 👯 Em busca de criar conexões e ajudar pessoas
-- 🥅 2024 Goals: Contribuir mais para projetos de código aberto
+- 🥅 2024-Metas: Contribuir mais para projetos de código aberto
 - ⚡ Curiosidades: Eu tocar guitarra e ler
 
 
