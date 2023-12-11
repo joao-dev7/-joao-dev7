@@ -1,5 +1,5 @@
 
-<img align="right" alt="GIF" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/0bcd9cdb-34e5-4873-b8a2-1a41307fae2a" width="420" height="280" />
+<img align="right" alt="GIF" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/0bcd9cdb-34e5-4873-b8a2-1a41307fae2a" width="400" height="280" />
 
 ### Olá , Eu sou o João! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
