@@ -9,7 +9,7 @@
 - 🥅 2024-Metas: Contribuir mais para projetos de código aberto
 - ⚡ Curiosidades: Eu gosto de tocar guitarra e ler
 
-<img alt="GIF" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/0bcd9cdb-34e5-4873-b8a2-1a41307fae2a" width="550" height="280" />
+<img alt="GIF" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/0bcd9cdb-34e5-4873-b8a2-1a41307fae2a" width="550" height="300" />
 
 #### ⭐Habilidades: 
 [![habilidades](https://skillicons.dev/icons?i=js,html,css,git,github&perline=3)](https://skillicons.dev)
