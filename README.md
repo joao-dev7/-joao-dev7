@@ -1,4 +1,14 @@
-<img width="1834" alt="Make your README" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/11a0a5b6-17de-4674-8372-5140782cebd5">
+### Olá , Eu sou o João! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+## Eu sou um desenvolvedor full-stack
+
+- 🌱 Atualmente estou aprendendo js
+- 👯 Em busca de criar conexões e ajudar pessoas
+- 🥅 2024 Goals: Contribuir mais para projetos de código aberto
+- ⚡ Curiosidades: Eu tocar guitarra e ler
+
 
 #### ⭐Habilidades: 
 [![habilidades](https://skillicons.dev/icons?i=js,html,css,git,github&perline=3)](https://skillicons.dev)
