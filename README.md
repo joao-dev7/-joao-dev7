@@ -1,8 +1,5 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
-<a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="250" height="180" align="right" alt="Hello, there!">
-</a>
 
 ### I'm full stack developer
 
@@ -12,6 +9,9 @@
 - ⚡ Fun facts: I enjoy playing guitar and reading.
 
 
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="250" height="180" align="right" alt="Hello, there!">
+</a>
 
 #### ⭐ Tech Stack: 
 [![habilidades](https://skillicons.dev/icons?i=js,html,css,git,github&perline=3)](https://skillicons.dev)
