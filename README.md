@@ -1,8 +1,8 @@
 
 
-### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Sou um desenvolvedor full stack
+### Sou um desenvolvedor full stack
 
 - 🌱 Atualmente estou aprendendo ts
 - 👯 Em busca de criar conexões e ajudar pessoas
