@@ -1,5 +1,9 @@
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="320" height="230" align="right" alt="Hello, there!">
+</a>
+
 ### I'm full stack developer
 
 - 🌱 Currently, I'm learning TypeScript.
@@ -7,7 +11,7 @@
 - 🥅 2024 Goals: Learn new languages.
 - ⚡ Fun facts: I enjoy playing guitar and reading.
 
-<img alt="GIF" src="https://github.com/joao-dev7/joao-dev7/assets/117098725/0bcd9cdb-34e5-4873-b8a2-1a41307fae2a" width="550" height="300" />
+
 
 #### ⭐ Tech Stack: 
 [![habilidades](https://skillicons.dev/icons?i=js,html,css,git,github&perline=3)](https://skillicons.dev)
