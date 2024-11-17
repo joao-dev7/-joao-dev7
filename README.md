@@ -12,7 +12,7 @@
 - ⚡ Fun facts: I enjoy playing guitar and reading.
 
 #### ⭐ Tech Stack: 
-[![habilidades](https://skillicons.dev/icons?i=js,ts,html,css,git,github&perline=3)](https://skillicons.dev)
+[![habilidades](https://skillicons.dev/icons?i=js,ts,html,css,git,github,react&perline=3)](https://skillicons.dev)
 
 #### 🔗 Talk to me:
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrossdev/)
