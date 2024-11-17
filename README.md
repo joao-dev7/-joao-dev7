@@ -6,7 +6,7 @@
 
 ### I'm full stack developer
 
-- 🌱 Currently, I'm learning GIT.
+- 🌱 Currently, I'm learning React.js.
 - 👯 Seeking to create connections and help people.
 - 🥅 2024 Goals: Learn new languages.
 - ⚡ Fun facts: I enjoy playing guitar and reading.
